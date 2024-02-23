@@ -28,7 +28,7 @@ Copy code
 
 git clone https://github.com/AswinRajamani/Cloud-Hosting-Website.git
 
-Open the index.html file in your preferred web browser.
+Open the home.html file in your preferred web browser.
 
 Usage
 -----
