@@ -561,9 +561,12 @@ footer .flex {
       }
 
     .showcase{
-        padding-top: 100px;
         text-align: center;
         height: 650px;
+    }
+
+    .showcase-content{
+        padding-top: 30px;
     }
 
     .showcase .flex{
