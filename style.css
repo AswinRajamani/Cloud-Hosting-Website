@@ -561,6 +561,7 @@ footer .flex {
       }
 
     .showcase{
+        padding-top: 30px;
         text-align: center;
         height: 650px;
     }
