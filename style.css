@@ -561,9 +561,8 @@ footer .flex {
       }
 
     .showcase{
-        padding-top: 100px;
         text-align: center;
-        height: 500px;
+        height: 600px;
     }
 
     .showcase .flex{
@@ -574,9 +573,12 @@ footer .flex {
         top: 0px;
     }
 
+    .platform{ 
+        padding: 50px 0px 0px;
+    }
+
     
     .platform h3{
-        padding-top: 40px;
         min-width: 100%;
     }
 
