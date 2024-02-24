@@ -549,7 +549,7 @@ footer .flex {
  
  @media (max-width: 500px) {
     header{
-        height: 130px;
+        height: 150px;
     }
     .nav-bar .flex{
         flex-direction: column;
@@ -566,7 +566,7 @@ footer .flex {
     }
 
     .showcase-content{
-        padding-top: 60px;
+        padding-top: 30px;
     }
 
     .showcase .flex{
@@ -590,7 +590,7 @@ footer .flex {
     }
 
     .platform {
-        padding-top: 40px;
+        padding-top: 60px;
     }
 
 
